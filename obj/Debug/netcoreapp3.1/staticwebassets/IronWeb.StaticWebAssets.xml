@@ -1,0 +1,8 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\Song\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.8\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/AntDesign" Path="C:\Users\Song\.nuget\packages\antdesign\0.4.1\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/BlazorTable" Path="C:\Users\Song\.nuget\packages\blazortable\1.14.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/ChartJs.Blazor" Path="C:\Users\Song\Downloads\ChartJs.Blazor-Release-1.0.3 (1)\ChartJs.Blazor-Release-1.0.3\src\ChartJs.Blazor\wwwroot\" />
+  <ContentRoot BasePath="_content/MatBlazor" Path="C:\Users\Song\.nuget\packages\matblazor\2.8.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\Song\.nuget\packages\radzen.blazor\2.18.6\build\..\staticwebassets\" />
+</StaticWebAssets>
